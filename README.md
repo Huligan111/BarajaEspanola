@@ -24,3 +24,6 @@ Una baraja tendrá estos métodos:
 
     barajar(): baraja las cartas, desordenándolas de forma aleatoria.
     toString(): devuelve un texto con el orden en el que están las cartas dentro de la baraja.
+
+
+[![baraja-Espaniola.png](https://i.postimg.cc/DypvgHgc/baraja-Espaniola.png)](https://postimg.cc/jLNYq8BW)
